@@ -1,2 +1,2 @@
 # Interstellar-Glass-Bridge-
-THIS GAME IS CURRENTLY IN PROGRESS
+This Game IS In Progress!
