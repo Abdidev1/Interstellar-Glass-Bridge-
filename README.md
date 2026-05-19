@@ -1,2 +1,2 @@
 # Interstellar-Glass-Bridge-
-IN PROGRESS!
+WILL UPDATE README SOON
