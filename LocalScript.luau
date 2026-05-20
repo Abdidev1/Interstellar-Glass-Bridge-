@@ -1,7 +1,7 @@
 local Players = game:GetService("Players")
 local TextChatService = game:GetService("TextChatService") 
 
--- You need to adjust the parts below based on your Roblox group roles.
+-- You need to adjust the parts below based on your Roblox group roles. 
 local GroupTags = {
 	[255] = {Text = "[??Owner??]", Color = Color3.fromRGB(0, 170, 255)},
 	[254] = {Text = "[??Co-Leader??]", Color = Color3.fromRGB(0, 255, 0)},
