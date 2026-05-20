@@ -7,7 +7,7 @@ local function updateGroupStatus(player)
 		return player:GetRankInGroup(GroupId)
 	end)
 
-	if success then
+	if success then 
 		player:SetAttribute("GroupRank", result)
 	else
 		warn("Group rank check failed for", player.Name)
