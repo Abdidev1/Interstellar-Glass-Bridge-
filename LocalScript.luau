@@ -1,5 +1,5 @@
 local Players = game:GetService("Players")
-local TextChatService = game:GetService("TextChatService")
+local TextChatService = game:GetService("TextChatService") 
 
 -- You need to adjust the parts below based on your Roblox group roles.
 local GroupTags = {
