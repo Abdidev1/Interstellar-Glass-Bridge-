@@ -3,7 +3,7 @@ math.randomseed(os.time())
 
 local bridgeFolder = game.Workspace:WaitForChild("BridgeParts")
 
-for _, row in pairs(bridgeFolder:GetChildren()) do
+for _, row in pairs(bridgeFolder:GetChildren()) do 
 	if row:IsA("Model") then
 		local tiles = {}
 		for _, child in pairs(row:GetChildren()) do
