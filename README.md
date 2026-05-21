@@ -13,6 +13,7 @@ Reach the End: Only the bravest astronauts will make it across the nebula to saf
  
  (NOTE : BECASUE OF ROBLOX NEW SECURITY THIS GAME IS ONLY PLAYABLE TO 16+ USERS ON ROBLOX)
 
+DEMO VIDEO LINK : https://www.youtube.com/watch?v=KG4lSavLSJk
 ---
 
 ## ⏱ Project Showcase & Dev Stats
