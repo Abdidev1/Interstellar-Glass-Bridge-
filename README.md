@@ -10,6 +10,7 @@ Don't Look Down: There is no floor—only a bottomless sky filled with floating 
 Reach the End: Only the bravest astronauts will make it across the nebula to safety!
 
  Play The Game Here : https://www.roblox.com/games/87705680073722/Interstellar-Glass-Bridge 
+ (NOTE : BECASUE OF ROBLOX NEW SECURITY THIS GAME IS ONLY PLAYABLE TO 16+ USERS ON ROBLOX)
 
 ---
 
