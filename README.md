@@ -13,8 +13,8 @@ Reach the End: Only the bravest astronauts will make it across the nebula to saf
 
 ## ⏱ Project Showcase & Dev Stats
 
-*   **Total Time Invested:** [e.g., 50+ hours tracked / ~3 weeks]
-*   **Current Status:** Fully playable [Alpha/Beta] with active community testing.
+*   **Total Time Tracked:** [11.2 Hours]
+*   **Current Status:** Fully playable in  Beta with active community testing.
 *   **The Goal:** To build a scalable, high-performance Roblox experience using proper software engineering practices rather than basic built-in templates.
 
 ---
@@ -23,7 +23,7 @@ Reach the End: Only the bravest astronauts will make it across the nebula to saf
 
 *   **Language:** Luau (Roblox Luau) with strict typing where optimized performance is critical.
 *   **Development Workflow:** VS Code paired with **Rojo** for external syncing and professional source control.
-*   **Version Control:** Git & GitHub for clean commit history and modular structure.
+*   **Version Control:** GitHub for clean commit history and modular structure.
 *   **Key Systems:** Custom `ModuleScripts` for server-client architecture and secure DataStore handling.
 
 ---
