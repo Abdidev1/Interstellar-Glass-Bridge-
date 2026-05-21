@@ -1,6 +1,7 @@
 # [Interstellar-Glass-Bridge-]
 
-A performance-optimized Roblox game focusing on responsive mechanics and clean architecture. Built as a standalone project tracking progress through community-focused development milestones.
+Lost in the Asteroid Abyss... can you find the path out?
+You are stranded in a sector of space where the sky is nothing but endless, drifting rocks. There is no ground below—only the void. Your only hope is the Interstellar Glass Bridge. One mistake, and you'll be drifting among the asteroids forever.
 
 ---
 
