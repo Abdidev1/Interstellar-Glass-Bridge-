@@ -3,6 +3,12 @@
 Lost in the Asteroid Abyss... can you find the path out?
 You are stranded in a sector of space where the sky is nothing but endless, drifting rocks. There is no ground below—only the void. Your only hope is the Interstellar Glass Bridge. One mistake, and you'll be drifting among the asteroids forever.
 
+How To Play : 
+
+The Ultimate Gamble: Every step is a 50/50 choice. One tile holds your weight, the other shatters instantly.
+Don't Look Down: There is no floor—only a bottomless sky filled with floating asteroids.
+Reach the End: Only the bravest astronauts will make it across the nebula to safety!
+
 ---
 
 ## ⏱ Project Showcase & Dev Stats
