@@ -43,4 +43,4 @@ This repository is structured for open-source review and collaboration:
 1. **Prerequisites:** Ensure you have **Rojo** installed in VS Code and the Rojo plugin in Roblox Studio.
 2. **Clone the Repo:** 
    ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/[Your-Repo-Name].git
+   git clone [https://github.com/Abdidev1/Interstellar-Glass-Bridge-.git
